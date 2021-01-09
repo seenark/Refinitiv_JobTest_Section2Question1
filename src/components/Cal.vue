@@ -58,8 +58,6 @@ export default {
       if (this.numb === 0 || this.numb === 1) return true;
       let start = 0;
       let end = 1;
-      console.log("fib", 0);
-      console.log("fib", 1);
       while (end <= this.numb) {
         const fib = start + end;
         if (fib === this.numb) return true;
