@@ -1,24 +1,23 @@
-# section2q1
+# section2q1 for Refinitiv Job Test on Section2 Question 1
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### This Project serve on Port 8080
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`http://localhost:8080`
